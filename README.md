@@ -1,8 +1,8 @@
 
-# Shabbat In The World
+# ShabbatAPI
 
 
-Shabbat In The World is a web platform that provides Shabbat times (candle lighting, havdalah, and parasha) for cities globally. Users can search for cities and get accurate Shabbat times based on geographical coordinates. This project utilizes the Hebcal API to fetch Shabbat times and is built using Node.js, Express, EJS, HTML, CSS, and JavaScript.
+ShabbatAPI is a web platform that provides Shabbat times (candle lighting, havdalah, and parasha) for cities globally. Users can search for cities and get accurate Shabbat times based on geographical coordinates. This project utilizes the Hebcal API to fetch Shabbat times and is built using Node.js, Express, EJS, HTML, CSS, and JavaScript.
 
 ## Features
 
