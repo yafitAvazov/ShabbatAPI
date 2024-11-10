@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: auto;
+
+}
+
+/* מרכז את כל הקונטיינר */
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+/* מגדיר את הרוחב המקסימלי */
+.dropdown-menu {
+    max-width: 350px; /* הרוחב המקסימלי של התפריט */
+}
+.selectCity{
+display: flex;
+justify-content: center;
+    align-items: center;
+    
+}
+@font-face {
+    font-family: 'ShlomoSemiStam';
+    src: 
+         url('/styles/fonts/ShlomoSemiStam.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
